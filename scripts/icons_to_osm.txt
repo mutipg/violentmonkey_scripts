@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        🗺️ OSM Deep History integration v.MM
+// @name        Icons
 // @namespace   Violentmonkey Scripts
 // @match       https://www.openstreetmap.org/*
 // @match       https://overpass-api.de/achavi/*
@@ -13,5 +13,12 @@
 // @downloadURL
 // ==/UserScript==
 
+(() => {
+  'use strict'
+
+
 const iconsFolder = `https://github.com/mapbox/maki/tree/main/icons/`
+
 const iconsArrayList = [a,b]
+
+})()
