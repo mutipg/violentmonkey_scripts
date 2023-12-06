@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        OSM Changeset Viewer Integration v.MM
+// @name        OpenStreetMap Changeset Viewer Integration v.MM
 // @namespace   Violentmonkey Scripts
 // @match       https://www.openstreetmap.org/*
 // @match       https://osm.mapki.com/*
@@ -9,7 +9,7 @@
 // @version     1.1.1
 // @license     GNU Affero General Public License v3.0
 // @author      Marek-M
-// @description 2023-12-06 @ 20:10:15
+// @description 2023-12-06 @ 20:10:15 (OSM, OpenStreetMaps)
 // @updateURL
 // @downloadURL
 // ==/UserScript==
