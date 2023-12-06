@@ -6,7 +6,7 @@
 // @match       https://overpass-api.de/achavi/*
 // @match       https://rene78.github.io/latest-changes/*
 // @grant       none
-// @version     1.1.1
+// @version     1.1.2
 // @license     GNU Affero General Public License v3.0
 // @author      Marek-M
 // @description 2023-12-06 @ 20:10:15 (OSM, OpenStreetMaps)
