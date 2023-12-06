@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name        OSM Deep History integration v.MM
+// @name        OpenStreetMap Deep History integration v.MM
 // @namespace   Violentmonkey Scripts
 // @match       https://www.openstreetmap.org/*
 // @match       https://overpass-api.de/achavi/*
 // @match       https://rene78.github.io/latest-changes/*
 // @grant       none
 // @version     1.1.1
-// @description 2023-12-06, 13:28:50
+// @description 2023-12-06, 13:28:50 (OSM, OpenStreetMaps)
 // @license     GNU Affero General Public License v3.0
 // @author      Marek-M
 // @updateURL
