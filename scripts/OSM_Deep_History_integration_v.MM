@@ -5,8 +5,8 @@
 // @match       https://overpass-api.de/achavi/*
 // @match       https://rene78.github.io/latest-changes/*
 // @grant       none
-// @version     1.1.0
-// @description 2023-12-06, 12:31:37
+// @version     1.1.1
+// @description 2023-12-06, 13:28:50
 // @license     GNU Affero General Public License v3.0
 // @author      Marek-M
 // @updateURL
@@ -39,9 +39,9 @@
       (historyLinkArrayElement) =>
       {
         const button = document.createElement('a')
-        button.href = historyLinkArrayElement[historyLink]
-        button.textContent = historyLinkArrayElement[textContent]
-        button.title = historyLinkArrayElement[title]
+        button.textContent =  historyLinkArrayElement[textContent]
+        button.title =        historyLinkArrayElement[title]
+        button.href =         historyLinkArrayElement[historyLink]
         button.alt = button.title
         button.target = '_blank'
         button.style.paddingLeft = '0.45ch'
