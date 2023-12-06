@@ -1,5 +1,6 @@
 # violentmonkey_scripts
 Scripts for violentmonkey browsers plugin
+
 * #### [OSM Deep History integration v.MM](scripts/OSM_Deep_History_integration_v.MM)
 add links for nodes, ways and relations
 * d = `https://osmlab.github.io/osm-deep-history/#/${type}/${id}`
@@ -7,7 +8,8 @@ add links for nodes, ways and relations
 * m = `https://osm.mapki.com/history/${type}/${id}`
 * v = `https://aleung.github.io/osm-visual-history/#/${type}/${id}`
 
-     ![screenshot](scripts/OSM_Deep_History_integration_v.MM.png)
+| ![screenshot of OSM Deep History integration v.MM](scripts/OSM_Deep_History_integration_v.MM.png) |
+|-|
 
 * #### [OSM Changeset Viewer Integration v.MM](scripts/OSM_Changeset_Viewer_Integration_v.MM)
 add links for changesets
@@ -16,4 +18,5 @@ add links for changesets
 * C = `https://osmcha.org/changesets/${id}`
 * H = `https://osmhv.openstreetmap.de/changeset.jsp?id=${id}`
 
-     ![screenshot](scripts/OSM_Changeset_Viewer_Integration_v.MM.png)
+| ![screenshot of OSM Changeset Viewer Integration v.MM](scripts/OSM_Changeset_Viewer_Integration_v.MM.png) |
+|-|
