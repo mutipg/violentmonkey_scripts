@@ -1,7 +1,7 @@
 const iconsFolder = `https://github.com/mapbox/maki/tree/main/icons/`
-// icon Array ['icon_filename', 'title']
+// icon Array ['icon_filename', 'tag1|tag2|tagn']
 const iconsArrayList =
   [
     ['defibrillator.svg',   'emergency=defibrillator']
-    ['cross.svg',           'highway=crossing']
+    ['cross.svg',           'highway=crossing|cycleway=crossing|footway=crossing']
   ]
