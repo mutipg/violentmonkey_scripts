@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        🗺️ OSM Deep History integration v.MM
+// @name        OSM Deep History integration v.MM
 // @namespace   Violentmonkey Scripts
 // @match       https://www.openstreetmap.org/*
 // @match       https://overpass-api.de/achavi/*
